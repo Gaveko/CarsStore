@@ -12622,19 +12622,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\garka\\.nuget\\packages\\": {}
+    "C:\\Users\\1\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\garka\\source\\repos\\ASP.NET Core Projects\\CarsStore\\CarsStore\\CarsStore.csproj",
+      "projectUniqueName": "F:\\projects\\CarsStore\\CarsStore\\CarsStore.csproj",
       "projectName": "CarsStore",
-      "projectPath": "C:\\Users\\garka\\source\\repos\\ASP.NET Core Projects\\CarsStore\\CarsStore\\CarsStore.csproj",
-      "packagesPath": "C:\\Users\\garka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\garka\\source\\repos\\ASP.NET Core Projects\\CarsStore\\CarsStore\\obj\\",
+      "projectPath": "F:\\projects\\CarsStore\\CarsStore\\CarsStore.csproj",
+      "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
+      "outputPath": "F:\\projects\\CarsStore\\CarsStore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\garka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\1\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12646,6 +12646,7 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
           "projectReferences": {}
         }
       },
@@ -12657,6 +12658,7 @@
     },
     "frameworks": {
       "netcoreapp2.1": {
+        "targetAlias": "netcoreapp2.1",
         "dependencies": {
           "Microsoft.AspNetCore.App": {
             "suppressParent": "All",
@@ -12690,7 +12692,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
