@@ -24,3 +24,30 @@ C:\Users\garka\source\repos\ASP.NET Core Projects\CarsStore\CarsStore\obj\Debug\
 C:\Users\garka\source\repos\ASP.NET Core Projects\CarsStore\CarsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\garka\source\repos\ASP.NET Core Projects\CarsStore\CarsStore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
 C:\Users\garka\source\repos\ASP.NET Core Projects\CarsStore\CarsStore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\projects\CarsStore\CarsStore\bin\Debug\netcoreapp2.1\CarsStore.deps.json
+F:\projects\CarsStore\CarsStore\bin\Debug\netcoreapp2.1\CarsStore.runtimeconfig.json
+F:\projects\CarsStore\CarsStore\bin\Debug\netcoreapp2.1\CarsStore.runtimeconfig.dev.json
+F:\projects\CarsStore\CarsStore\bin\Debug\netcoreapp2.1\CarsStore.dll
+F:\projects\CarsStore\CarsStore\bin\Debug\netcoreapp2.1\CarsStore.pdb
+F:\projects\CarsStore\CarsStore\bin\Debug\netcoreapp2.1\CarsStore.Views.dll
+F:\projects\CarsStore\CarsStore\bin\Debug\netcoreapp2.1\CarsStore.Views.pdb
+F:\projects\CarsStore\CarsStore\obj\Debug\netcoreapp2.1\CarsStore.csprojAssemblyReference.cache
+F:\projects\CarsStore\CarsStore\obj\Debug\netcoreapp2.1\CarsStore.AssemblyInfoInputs.cache
+F:\projects\CarsStore\CarsStore\obj\Debug\netcoreapp2.1\CarsStore.AssemblyInfo.cs
+F:\projects\CarsStore\CarsStore\obj\Debug\netcoreapp2.1\CarsStore.csproj.CoreCompileInputs.cache
+F:\projects\CarsStore\CarsStore\obj\Debug\netcoreapp2.1\CarsStore.RazorAssemblyInfo.cache
+F:\projects\CarsStore\CarsStore\obj\Debug\netcoreapp2.1\CarsStore.RazorAssemblyInfo.cs
+F:\projects\CarsStore\CarsStore\obj\Debug\netcoreapp2.1\CarsStore.TagHelpers.input.cache
+F:\projects\CarsStore\CarsStore\obj\Debug\netcoreapp2.1\CarsStore.TagHelpers.output.cache
+F:\projects\CarsStore\CarsStore\obj\Debug\netcoreapp2.1\CarsStore.RazorCoreGenerate.cache
+F:\projects\CarsStore\CarsStore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\projects\CarsStore\CarsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\projects\CarsStore\CarsStore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\projects\CarsStore\CarsStore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\projects\CarsStore\CarsStore\obj\Debug\netcoreapp2.1\CarsStore.RazorTargetAssemblyInfo.cache
+F:\projects\CarsStore\CarsStore\obj\Debug\netcoreapp2.1\CarsStore.RazorTargetAssemblyInfo.cs
+F:\projects\CarsStore\CarsStore\obj\Debug\netcoreapp2.1\CarsStore.Views.pdb
+F:\projects\CarsStore\CarsStore\obj\Debug\netcoreapp2.1\CarsStore.dll
+F:\projects\CarsStore\CarsStore\obj\Debug\netcoreapp2.1\CarsStore.pdb
+F:\projects\CarsStore\CarsStore\obj\Debug\netcoreapp2.1\CarsStore.genruntimeconfig.cache
+F:\projects\CarsStore\CarsStore\obj\Debug\netcoreapp2.1\CarsStore.csproj.CopyComplete

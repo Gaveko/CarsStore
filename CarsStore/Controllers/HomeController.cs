@@ -14,9 +14,6 @@ namespace CarsStore.Controllers
         {
             repository = repo;
         }
-        public IActionResult Index()
-        {
-            return View();
-        }
+        public ViewResult Index() => View(repository.Categories);
     }
 }
