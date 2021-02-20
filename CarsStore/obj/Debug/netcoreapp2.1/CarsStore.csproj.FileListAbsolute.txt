@@ -4,7 +4,6 @@ C:\Users\garka\source\repos\ASP.NET Core Projects\CarsStore\CarsStore\bin\Debug\
 C:\Users\garka\source\repos\ASP.NET Core Projects\CarsStore\CarsStore\bin\Debug\netcoreapp2.1\CarsStore.runtimeconfig.dev.json
 C:\Users\garka\source\repos\ASP.NET Core Projects\CarsStore\CarsStore\bin\Debug\netcoreapp2.1\CarsStore.dll
 C:\Users\garka\source\repos\ASP.NET Core Projects\CarsStore\CarsStore\bin\Debug\netcoreapp2.1\CarsStore.pdb
-C:\Users\garka\source\repos\ASP.NET Core Projects\CarsStore\CarsStore\obj\Debug\netcoreapp2.1\CarsStore.csprojAssemblyReference.cache
 C:\Users\garka\source\repos\ASP.NET Core Projects\CarsStore\CarsStore\obj\Debug\netcoreapp2.1\CarsStore.RazorAssemblyInfo.cache
 C:\Users\garka\source\repos\ASP.NET Core Projects\CarsStore\CarsStore\obj\Debug\netcoreapp2.1\CarsStore.RazorAssemblyInfo.cs
 C:\Users\garka\source\repos\ASP.NET Core Projects\CarsStore\CarsStore\obj\Debug\netcoreapp2.1\CarsStore.AssemblyInfoInputs.cache
@@ -51,3 +50,6 @@ F:\projects\CarsStore\CarsStore\obj\Debug\netcoreapp2.1\CarsStore.dll
 F:\projects\CarsStore\CarsStore\obj\Debug\netcoreapp2.1\CarsStore.pdb
 F:\projects\CarsStore\CarsStore\obj\Debug\netcoreapp2.1\CarsStore.genruntimeconfig.cache
 F:\projects\CarsStore\CarsStore\obj\Debug\netcoreapp2.1\CarsStore.csproj.CopyComplete
+C:\Users\garka\source\repos\ASP.NET Core Projects\CarsStore\CarsStore\bin\Debug\netcoreapp2.1\package.json
+C:\Users\garka\source\repos\ASP.NET Core Projects\CarsStore\CarsStore\bin\Debug\netcoreapp2.1\bundleconfig.json
+C:\Users\garka\source\repos\ASP.NET Core Projects\CarsStore\CarsStore\obj\Debug\netcoreapp2.1\CarsStore.csprojAssemblyReference.cache

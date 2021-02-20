@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\projects\\CarsStore\\CarsStore\\CarsStore.csproj": {}
+    "C:\\Users\\garka\\source\\repos\\ASP.NET Core Projects\\CarsStore\\CarsStore\\CarsStore.csproj": {}
   },
   "projects": {
-    "F:\\projects\\CarsStore\\CarsStore\\CarsStore.csproj": {
+    "C:\\Users\\garka\\source\\repos\\ASP.NET Core Projects\\CarsStore\\CarsStore\\CarsStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\projects\\CarsStore\\CarsStore\\CarsStore.csproj",
+        "projectUniqueName": "C:\\Users\\garka\\source\\repos\\ASP.NET Core Projects\\CarsStore\\CarsStore\\CarsStore.csproj",
         "projectName": "CarsStore",
-        "projectPath": "F:\\projects\\CarsStore\\CarsStore\\CarsStore.csproj",
-        "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
-        "outputPath": "F:\\projects\\CarsStore\\CarsStore\\obj\\",
+        "projectPath": "C:\\Users\\garka\\source\\repos\\ASP.NET Core Projects\\CarsStore\\CarsStore\\CarsStore.csproj",
+        "packagesPath": "C:\\Users\\garka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\garka\\source\\repos\\ASP.NET Core Projects\\CarsStore\\CarsStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\garka\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +26,6 @@
         },
         "frameworks": {
           "netcoreapp2.1": {
-            "targetAlias": "netcoreapp2.1",
             "projectReferences": {}
           }
         },
@@ -38,7 +37,6 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "targetAlias": "netcoreapp2.1",
           "dependencies": {
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
@@ -72,7 +70,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
