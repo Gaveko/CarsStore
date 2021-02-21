@@ -50,6 +50,5 @@ F:\projects\CarsStore\CarsStore\obj\Debug\netcoreapp2.1\CarsStore.dll
 F:\projects\CarsStore\CarsStore\obj\Debug\netcoreapp2.1\CarsStore.pdb
 F:\projects\CarsStore\CarsStore\obj\Debug\netcoreapp2.1\CarsStore.genruntimeconfig.cache
 F:\projects\CarsStore\CarsStore\obj\Debug\netcoreapp2.1\CarsStore.csproj.CopyComplete
-C:\Users\garka\source\repos\ASP.NET Core Projects\CarsStore\CarsStore\bin\Debug\netcoreapp2.1\package.json
-C:\Users\garka\source\repos\ASP.NET Core Projects\CarsStore\CarsStore\bin\Debug\netcoreapp2.1\bundleconfig.json
+C:\Users\garka\source\repos\ASP.NET Core Projects\CarsStore\CarsStore\bin\Debug\netcoreapp2.1\libman.json
 C:\Users\garka\source\repos\ASP.NET Core Projects\CarsStore\CarsStore\obj\Debug\netcoreapp2.1\CarsStore.csprojAssemblyReference.cache
